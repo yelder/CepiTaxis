@@ -1,0 +1,44 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    
+    <style name="pantalla_completa" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    
+    <style name="Boton" parent="pantalla_completa">
+        <item name="android:textColor">@color/taxi_claro</item>
+        <item name="android:background">@color/sombra</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:padding">20dp</item>
+    </style>
+
+    <style name="titulo" parent="pantalla_completa">
+        <item name="android:textSize">24sp</item>
+        <item name="android:color">@color/blanco</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="Subtitulo" parent="pantalla_completa">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/taxi_claro</item>
+    </style>
+
+    <style name="Pie" parent="pantalla_completa">
+        <item name="android:textSize">14sp</item>
+        <item name="android:color">@color/taxi_oscuro</item>
+    </style>
+    
+    <style name="Normal" parent="pantalla_completa">
+        <item name="android:textSize">18sp</item>
+        <item name="android:color">@color/blanco</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+</resources>

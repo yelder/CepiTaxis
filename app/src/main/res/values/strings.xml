@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CepiTaxis</string>
+    <string name="string_aviso_notificacion">Recibirá una notificación cuando el taxi llegue a
+    a su ubicación</string>
+    <string name="string_en_curso">Su taxi está de camino</string>
+    <string name="string_registro">Registrarse</string>
+    <string name="string_login">Continuar como</string>
+    <string name="string_localizar">Localizar un taxi</string>
+    <string name="string_detalle_solicitud">Detalle de la solicitud</string>
+    <string name="string_taxi_solicitado">Taxi solicitado:</string>
+    <string name="string_cliente">A nombre de:</string>
+    <string name="string_confirmar">Confirmar solicitud</string>
+    <string name="string_espera">Tiempo de espera aproximado:</string>
+    <string name="string_minutos">minutos</string>
+    <string name="string_historial">Historial de pedidos</string>
+    <string name="string_marcador">Presiona para solicitar este taxi</string>
+    <string name="string_datos_personales">Datos personales</string>
+    <string name="string_nombre">Nombre:</string>
+    <string name="string_apellidos">Apellidos:</string>
+    <string name="string_email">Dirección e-mail:</string>
+    <string name="string_informacion">Información sobre su cuenta</string>
+    <string name="string_usuario">Nombre de usuario:</string>
+    <string name="string_contraseña">Contraseña:</string>
+    <string name="string_terminos">Términos del servicio</string>
+    <string name="string_acepta_terminos">Acepto las condiciones del servicio</string>
+</resources>

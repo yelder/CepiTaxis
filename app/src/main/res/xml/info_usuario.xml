@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/string_datos_personales">
+        <EditTextPreference
+            android:key="nombre"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/string_nombre"/>
+        <EditTextPreference
+            android:key="apellidos"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/string_apellidos"/>
+        <EditTextPreference
+            android:key="email"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/string_email"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/string_informacion">
+        <EditTextPreference
+            android:key="nickname"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/string_usuario"/>
+        <EditTextPreference
+            android:key="pass"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:inputType="textPassword"
+            android:title="@string/string_contraseña"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/string_terminos">
+        <CheckBoxPreference
+            android:key="condiciones"
+            android:defaultValue="true"
+            android:title="@string/string_acepta_terminos"/>
+    </PreferenceCategory>
+</PreferenceScreen>

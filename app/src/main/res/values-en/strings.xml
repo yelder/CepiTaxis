@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_aviso_notificacion">You will receive a notification when the taxi arrives at your location</string>
+    <string name="string_en_curso">Your taxi is on the way</string>
+    <string name="string_registro">Register</string>
+    <string name="string_login">Continue as</string>
+    <string name="string_localizar">Find a taxi</string>
+    <string name="string_detalle_solicitud">Request details</string>
+    <string name="string_taxi_solicitado">Requested taxi: </string>
+    <string name="string_cliente">By: </string>
+    <string name="string_confirmar">Confirm request</string>
+    <string name="string_espera">Approximate wait time: </string>
+    <string name="string_minutos">minutes</string>
+    <string name="string_historial">Orders history</string>
+    <string name="string_marcador">Press to select this taxi</string>
+    <string name="string_datos_personales">Personal information</string>
+    <string name="string_nombre">Name: </string>
+    <string name="string_apellidos">Surname: </string>
+    <string name="string_email">E-mail: </string>
+    <string name="string_informacion">Account information</string>
+    <string name="string_usuario">Username: </string>
+    <string name="string_contraseña">Password: </string>
+    <string name="string_terminos">Terms of service</string>
+    <string name="string_acepta_terminos">I accept the terms and conditions</string>
+</resources>

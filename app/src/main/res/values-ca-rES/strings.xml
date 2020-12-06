@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="string_aviso_notificacion">Rebrà una notificació cuan el taxi arribi a la seva ubicació</string>
+    <string name="string_en_curso">El seu taxi està de camí</string>
+    <string name="string_registro">Registrarse-se</string>
+    <string name="string_login">Continuar com</string>
+    <string name="string_localizar">Localitzar un taxi</string>
+    <string name="string_detalle_solicitud">Detall de la sol·licitud</string>
+    <string name="string_taxi_solicitado">Taxi Sol·licitat: </string>
+    <string name="string_cliente">A nom de: </string>
+    <string name="string_confirmar">Confirmar sol·licitud</string>
+    <string name="string_espera">Temps d\'espera aproximat: </string>
+    <string name="string_minutos">minuts</string>
+    <string name="string_historial">Historial de comandes</string>
+    <string name="string_marcador">Pressiona per sol·licitar aquest taxi</string>
+    <string name="string_datos_personales">Dades personals</string>
+    <string name="string_nombre">Nom: </string>
+    <string name="string_apellidos">Cognom: </string>
+    <string name="string_email">Direcció e-mail: </string>
+    <string name="string_informacion">Informació sobre el seu compte</string>
+    <string name="string_usuario">Nom d\'usuari: </string>
+    <string name="string_contraseña">Contrasenya: </string>
+    <string name="string_terminos">Termes de servei</string>
+    <string name="string_acepta_terminos">Accepto les condicions de servei</string>
+</resources>
